@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kriti1895
+- 👋 Hi, I’m Kriti Bose
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on your organization as Data Scientist
